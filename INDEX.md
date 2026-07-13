@@ -6,9 +6,9 @@ Progresso: **0/76** capítulos concluídos.
 
 > Marque `[x]` quando terminar teoria + desafio + quiz de um capítulo.
 
-- [x] Capítulo 01: Python e as Etiquetas Magnéticas (Variáveis) — `cap01-python-e-as-etiquetas-magneticas-variaveis/capitulo.md`
-- [x] Capítulo 02: Tipos de Dados - A Natureza da Informação — `cap02-tipos-de-dados-a-natureza-da-informacao/capitulo.md`
-- [x] Capítulo 03: Entrada e Saída (O Diálogo com o Usuário) — `cap03-entrada-e-saida-o-dialogo-com-o-usuario/capitulo.md`
+- [ ] Capítulo 01: Python e as Etiquetas Magnéticas (Variáveis) — `cap01-python-e-as-etiquetas-magneticas-variaveis/capitulo.md`
+- [ ] Capítulo 02: Tipos de Dados - A Natureza da Informação — `cap02-tipos-de-dados-a-natureza-da-informacao/capitulo.md`
+- [ ] Capítulo 03: Entrada e Saída (O Diálogo com o Usuário) — `cap03-entrada-e-saida-o-dialogo-com-o-usuario/capitulo.md`
 - [ ] Capítulo 04: Operadores Aritméticos e Lógicos - As Engrenagens do Pensamento — `cap04-operadores-aritmeticos-e-logicos-as-engrenagens-do-pensamento/capitulo.md`
 - [ ] Capítulo 05: Condicionais (if, elif, else) - O Labirinto de Decisões — `cap05-condicionais-if-elif-else-o-labirinto-de-decisoes/capitulo.md`
 - [ ] Capítulo 06: Listas - O Trem da Organização — `cap06-listas-o-trem-da-organizacao/capitulo.md`
