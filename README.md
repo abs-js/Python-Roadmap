@@ -13,7 +13,8 @@ Antes de começar, você precisa baixar o conteúdo para o seu computador. Siga 
 1. **Escolha uma pasta dedicada:** Crie ou escolha uma pasta de fácil acesso no seu computador (por exemplo, dentro de `Documentos` ou `Projetos`).
 2. **Clone o repositório:** Abra o terminal dentro dessa pasta e rode o comando:
    ```bash
-   git clone [https://github.com/SemFrescura/Python-Roadmap.git](https://github.com/SemFrescura/Python-Roadmap.git)
+   git clone https://github.com/SemFrescura/Python-Roadmap.git
+   ```
 3. **Entre na pasta:** Agora basta executar um `cd ./Python-Roadmap` e iniciar seus estudos
 
 💡 Dica (Opcional):
