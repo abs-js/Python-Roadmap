@@ -1,0 +1,84 @@
+# Índice - Roadmap Python (Marca-página)
+
+Progresso: **0/76** capítulos concluídos.
+
+➡️ **Próximo capítulo:** 01 - Python e as Etiquetas Magnéticas (Variáveis)
+
+> Marque `[x]` quando terminar teoria + desafio + quiz de um capítulo.
+
+- [x] Capítulo 01: Python e as Etiquetas Magnéticas (Variáveis) — `cap01-python-e-as-etiquetas-magneticas-variaveis/capitulo.md`
+- [x] Capítulo 02: Tipos de Dados - A Natureza da Informação — `cap02-tipos-de-dados-a-natureza-da-informacao/capitulo.md`
+- [x] Capítulo 03: Entrada e Saída (O Diálogo com o Usuário) — `cap03-entrada-e-saida-o-dialogo-com-o-usuario/capitulo.md`
+- [ ] Capítulo 04: Operadores Aritméticos e Lógicos - As Engrenagens do Pensamento — `cap04-operadores-aritmeticos-e-logicos-as-engrenagens-do-pensamento/capitulo.md`
+- [ ] Capítulo 05: Condicionais (if, elif, else) - O Labirinto de Decisões — `cap05-condicionais-if-elif-else-o-labirinto-de-decisoes/capitulo.md`
+- [ ] Capítulo 06: Listas - O Trem da Organização — `cap06-listas-o-trem-da-organizacao/capitulo.md`
+- [ ] Capítulo 07: Tuplas, Sets e Dicionários – Além das Listas — `cap07-tuplas-sets-e-dicionarios-alem-das-listas/capitulo.md`
+- [ ] Capítulo 08: Estruturas de Repetição (For) – A Automação de Tarefas — `cap08-estruturas-de-repeticao-for-a-automacao-de-tarefas/capitulo.md`
+- [ ] Capítulo 09: Estruturas de Repetição (While) – Condição em Movimento — `cap09-estruturas-de-repeticao-while-condicao-em-movimento/capitulo.md`
+- [ ] Capítulo 10: Funções – A Fábrica de Comandos Personalizados — `cap10-funcoes-a-fabrica-de-comandos-personalizados/capitulo.md`
+- [ ] Capítulo 11: List Comprehension – A Linha de Produção Expressa — `cap11-list-comprehension-a-linha-de-producao-expressa/capitulo.md`
+- [ ] Capítulo 12: Tratamento de Erros (Try/Except) – O Para-quedas — `cap12-tratamento-de-erros-try-except-o-para-quedas/capitulo.md`
+- [ ] Capítulo 13: Módulos e Packages – O Kit de Ferramentas Externas — `cap13-modulos-e-packages-o-kit-de-ferramentas-externas/capitulo.md`
+- [ ] Capítulo 14: Manipulação de Arquivos – A Memória Persistente — `cap14-manipulacao-de-arquivos-a-memoria-persistente/capitulo.md`
+- [ ] Capítulo 15: Introdução à POO – A Planta da Construção (Classes e Objetos) — `cap15-introducao-a-poo-a-planta-da-construcao-classes-e-objetos/capitulo.md`
+- [ ] Capítulo 16: POO Avançado – Herança e Polimorfismo — `cap16-poo-avancado-heranca-e-polimorfismo/capitulo.md`
+- [ ] Capítulo 17: Decoradores (Decorators) – A Função que Envolve — `cap17-decoradores-decorators-a-funcao-que-envolve/capitulo.md`
+- [ ] Capítulo 18: Pip e Ambientes Virtuais (venv) – Organizando a Bagunça — `cap18-pip-e-ambientes-virtuais-venv-organizando-a-bagunca/capitulo.md`
+- [ ] Capítulo 19: Iterators e Generators – A Economia de Memória — `cap19-iterators-e-generators-a-economia-de-memoria/capitulo.md`
+- [ ] Capítulo 20: Expressões Regulares (Regex) – O Scanner de Padrões — `cap20-expressoes-regulares-regex-o-scanner-de-padroes/capitulo.md`
+- [ ] Capítulo 21: Trabalhando com JSON e APIs – A Linguagem da Internet — `cap21-trabalhando-com-json-e-apis-a-linguagem-da-internet/capitulo.md`
+- [ ] Capítulo 22: Programação Funcional (Lambda, Map e Filter) – O Atalho dos Mestres — `cap22-programacao-funcional-lambda-map-e-filter-o-atalho-dos-mestres/capitulo.md`
+- [ ] Capítulo 23: Métodos Mágicos (Dunder Methods) – Os Superpoderes das Classes — `cap23-metodos-magicos-dunder-methods-os-superpoderes-das-classes/capitulo.md`
+- [ ] Capítulo 24: Datetime – O Senhor do Tempo — `cap24-datetime-o-senhor-do-tempo/capitulo.md`
+- [ ] Capítulo 25: Context Managers – O Porteiro Responsável — `cap25-context-managers-o-porteiro-responsavel/capitulo.md`
+- [ ] Capítulo 26: Métodos Estáticos e de Classe – A Caixa de Ferramentas Independente — `cap26-metodos-estaticos-e-de-classe-a-caixa-de-ferramentas-independente/capitulo.md`
+- [ ] Capítulo 27: Classes Abstratas – O Contrato Obrigatório — `cap27-classes-abstratas-o-contrato-obrigatorio/capitulo.md`
+- [ ] Capítulo 28: Type Hinting (Tipagem de Dados) – O Código Autodocumentado — `cap28-type-hinting-tipagem-de-dados-o-codigo-autodocumentado/capitulo.md`
+- [ ] Capítulo 29: Recursão – A Função Espelho — `cap29-recursao-a-funcao-espelho/capitulo.md`
+- [ ] Capítulo 30: Módulo Collections – Ferramentas de Elite — `cap30-modulo-collections-ferramentas-de-elite/capitulo.md`
+- [ ] Capítulo 31: Testes Unitários – O Inspetor de Qualidade — `cap31-testes-unitarios-o-inspetor-de-qualidade/capitulo.md`
+- [ ] Capítulo 32: Variáveis de Ambiente e .env – O Cofre de Segredos — `cap32-variaveis-de-ambiente-e-env-o-cofre-de-segredos/capitulo.md`
+- [ ] Capítulo 33: Logging – O Diário de Bordo Profissional — `cap33-logging-o-diario-de-bordo-profissional/capitulo.md`
+- [ ] Capítulo 34: Comprehensions de Dicionários e Conjuntos — A Refinaria de Dados — `cap34-comprehensions-de-dicionarios-e-conjuntos-a-refinaria-de-dados/capitulo.md`
+- [ ] Capítulo 35: Argumentos Dinâmicos (*args e **kwargs) — O Garçom Versátil — `cap35-argumentos-dinamicos-args-e-kwargs-o-garcom-versatil/capitulo.md`
+- [ ] Capítulo 36: Multithreading vs Multiprocessing — O Time de Operários — `cap36-multithreading-vs-multiprocessing-o-time-de-operarios/capitulo.md`
+- [ ] Capítulo 37: AsyncIO — A Dança da Eficiência (Programação Assíncrona) — `cap37-asyncio-a-danca-da-eficiencia-programacao-assincrona/capitulo.md`
+- [ ] Capítulo 38: Shallow vs Deep Copy — O Espelho da Memória — `cap38-shallow-vs-deep-copy-o-espelho-da-memoria/capitulo.md`
+- [ ] Capítulo 39: Design Patterns (Singleton) — O Highlander do Código — `cap39-design-patterns-singleton-o-highlander-do-codigo/capitulo.md`
+- [ ] Capítulo 40: Walrus Operator (`:=`) — O Atribuidor Multitarefa — `cap40-walrus-operator-o-atribuidor-multitarefa/capitulo.md`
+- [ ] Capítulo 41: Dataclasses — O Fim do Código Burocrático — `cap41-dataclasses-o-fim-do-codigo-burocratico/capitulo.md`
+- [ ] Capítulo 42: Profiling e Desempenho — O Cronômetro de Precisão — `cap42-profiling-e-desempenho-o-cronometro-de-precisao/capitulo.md`
+- [ ] Capítulo 43: Itertools – O Canivete Suíço para Loops Infinitos e Combinações — `cap43-itertools-o-canivete-suico-para-loops-infinitos-e-combinacoes/capitulo.md`
+- [ ] Capítulo 44: Functools – Memoização e Currying (Funções com Memória) — `cap44-functools-memoizacao-e-currying-funcoes-com-memoria/capitulo.md`
+- [ ] Capítulo 45: Design Pattern: Factory – A Linha de Montagem de Objetos — `cap45-design-pattern-factory-a-linha-de-montagem-de-objetos/capitulo.md`
+- [ ] Capítulo 46: Metaclasses – A Fábrica de Fábricas — `cap46-metaclasses-a-fabrica-de-fabricas/capitulo.md`
+- [ ] Capítulo 47: Structural Pattern Matching (match-case) – O Super Switch — `cap47-structural-pattern-matching-match-case-o-super-switch/capitulo.md`
+- [ ] Capítulo 48: Garbage Collection (Coletor de Lixo) – O Zelador de Memória — `cap48-garbage-collection-coletor-de-lixo-o-zelador-de-memoria/capitulo.md`
+- [ ] Capítulo 49: Descriptors – O Motor Secreto das Propriedades — `cap49-descriptors-o-motor-secreto-das-propriedades/capitulo.md`
+- [ ] Capítulo 50: SQLite3 – O Banco de Dados de Bolso — `cap50-sqlite3-o-banco-de-dados-de-bolso/capitulo.md`
+- [ ] Capítulo 51: Networking – Sockets e a Conversa entre Máquinas — `cap51-networking-sockets-e-a-conversa-entre-maquinas/capitulo.md`
+- [ ] Capítulo 52: Argparse – O Painel de Controle de Scripts Profissionais — `cap52-argparse-o-painel-de-controle-de-scripts-profissionais/capitulo.md`
+- [ ] Capítulo 53: Hashlib – A Impressão Digital Digital (Segurança) — `cap53-hashlib-a-impressao-digital-digital-seguranca/capitulo.md`
+- [ ] Capítulo 54: Serialização com Pickle – Congelando Objetos Python — `cap54-serializacao-com-pickle-congelando-objetos-python/capitulo.md`
+- [ ] Capítulo 55: MRO (Method Resolution Order) – A Árvore Genealógica — `cap55-mro-method-resolution-order-a-arvore-genealogica/capitulo.md`
+- [ ] Capítulo 56: __slots__ – A Prateleira Sob Medida (Otimização) — `cap56-slots-a-prateleira-sob-medida-otimizacao/capitulo.md`
+- [ ] Capítulo 57: Closures (Fechamentos) – A Memória Seletiva das Funções — `cap57-closures-fechamentos-a-memoria-seletiva-das-funcoes/capitulo.md`
+- [ ] Capítulo 58: PyTest – O Canivete Suíço dos Testes Modernos — `cap58-pytest-o-canivete-suico-dos-testes-modernos/capitulo.md`
+- [ ] Capítulo 59: Name Mangling (`_` vs `__`) – O Segredo das Variáveis — `cap59-name-mangling-vs-o-segredo-das-variaveis/capitulo.md`
+- [ ] Capítulo 60: Encodings (UTF-8 e Bytes) – O DNA do Texto — `cap60-encodings-utf-8-e-bytes-o-dna-do-texto/capitulo.md`
+- [ ] Capítulo 61: DefaultDict – O Dicionário que Nunca Diz "Não" — `cap61-defaultdict-o-dicionario-que-nunca-diz-nao/capitulo.md`
+- [ ] Capítulo 62: Bisect – Mantendo a Ordem com Eficiência — `cap62-bisect-mantendo-a-ordem-com-eficiencia/capitulo.md`
+- [ ] Capítulo 63: Property Decorators – Getters e Setters Elegantes — `cap63-property-decorators-getters-e-setters-elegantes/capitulo.md`
+- [ ] Capítulo 64: Mocking – O Dublê de Testes — `cap64-mocking-o-duble-de-testes/capitulo.md`
+- [ ] Capítulo 65: Heapq (Filas de Prioridade) – A Ordem de Importância — `cap65-heapq-filas-de-prioridade-a-ordem-de-importancia/capitulo.md`
+- [ ] Capítulo 66: Identidade vs Igualdade (`is` vs `==`) – A Alma do Objeto — `cap66-identidade-vs-igualdade-is-vs-a-alma-do-objeto/capitulo.md`
+- [ ] Capítulo 67: Pathlib – Navegação Inteligente pelo Sistema — `cap67-pathlib-navegacao-inteligente-pelo-sistema/capitulo.md`
+- [ ] Capítulo 68: Decoradores com Argumentos – O Próximo Nível da Customização — `cap68-decoradores-com-argumentos-o-proximo-nivel-da-customizacao/capitulo.md`
+- [ ] Capítulo 69: Enum – A Lista de Opções Inabalável — `cap69-enum-a-lista-de-opcoes-inabalavel/capitulo.md`
+- [ ] Capítulo 70: Introspecção e Módulo Inspect – Olhando Sob o Capô — `cap70-introspeccao-e-modulo-inspect-olhando-sob-o-capo/capitulo.md`
+- [ ] Capítulo 71: Shutil – O Gerente de Mudanças e Logística — `cap71-shutil-o-gerente-de-mudancas-e-logistica/capitulo.md`
+- [ ] Capítulo 72: Threading Lock – O Bastão de Revezamento — `cap72-threading-lock-o-bastao-de-revezamento/capitulo.md`
+- [ ] Capítulo 73: BeautifulSoup – O Extrator de Dados da Web — `cap73-beautifulsoup-o-extrator-de-dados-da-web/capitulo.md`
+- [ ] Capítulo 74: Subprocess – O Maestro do Sistema Operacional — `cap74-subprocess-o-maestro-do-sistema-operacional/capitulo.md`
+- [ ] Capítulo 75: Math e Statistics – A Calculadora Científica — `cap75-math-e-statistics-a-calculadora-cientifica/capitulo.md`
+- [ ] Capítulo 76: CSV e DictReader – Planilhas sem Excel — `cap76-csv-e-dictreader-planilhas-sem-excel/capitulo.md`
